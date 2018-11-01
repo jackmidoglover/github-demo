@@ -1,1 +1,3 @@
-var array = ["1", "2", "3", "12", "3", "cat", "dog", "toads"];
+
+var array = ["soda", "chicken", "horse"]
+
