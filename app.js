@@ -1,3 +1,3 @@
 
-var array = ["soda", "chicken", "horse"]
+var array = ["chicken", "horse", "seahorse"];
 
