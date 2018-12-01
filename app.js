@@ -1,3 +1,4 @@
 
 var array = ["dog", "chicken", "horse", "cat"]
 
+var animal = "";
